@@ -40,3 +40,5 @@ I'm not a tester who likes "break things" - it sounds as testers don't respect d
 
 ### Fun facts
 Hallmark in every company: Space cat lover :octocat:
+I like to cheer up my team with programming memes
+Pokemon and Star Wars fan
