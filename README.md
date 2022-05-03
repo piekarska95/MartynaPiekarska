@@ -27,8 +27,8 @@ I'm not a tester who likes "break things" - it sounds as testers don't respect d
 ### Technologies and tools
 
 - Languages: Java, JavaScript (basics)
-- UI: Selenium, Selenide, BDD Cucumber+Gherkin
-- API: Postman, JMeter (basics), RestAssured
+- FE: Selenium, Selenide, BDD Cucumber+Gherkin
+- BE: Postman, JMeter (basics), RestAssured
 - Git: GitLab, GitHub
 - Atlassian: Jira, Confluence
 - Others: JUnit, SQL, HTML, CSS, DevTools
