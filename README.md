@@ -39,5 +39,4 @@ I'm not a tester who likes "break things" - it sounds as testers don't respect d
 - Jenkins, Docker
 
 ### Fun facts
-Hallmark in every company: Space cat lover :octocat: 
-![wp4575179-space-cat-wallpapers](https://user-images.githubusercontent.com/77629708/166441618-a2d4b5e0-7d90-462b-9a52-cdf9c3268061.jpg)
+Hallmark in every company: Space cat lover :octocat:
