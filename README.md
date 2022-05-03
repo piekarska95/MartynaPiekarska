@@ -14,3 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### I'm Martyna Piekarska, Junior Automation Tester at Zoovu 💻
+
+The most important for me is keeping the best quality. I learn and experience the product to find ways in which it doesn't work. Then I talk to you about these issues so that you can make more informed decisions about the quality of your products.
+
+I'm not a tester who likes "break things" - it sounds as testers don't respect developers' work. Devs and testers should play on the same team, reach common goals and enjoy mutual success. Me + devs = ❤️
+
+
+
+### Technologies and tools
+
+- Languages: Java, JavaScript (basics)
+- UI: Selenium, Selenide, BDD Cucumber+Gherkin
+- API: Postman, JMeter (basics), RestAssured
+- Git: GitLab, GitHub
+- Atlassian: Jira, Confluence
+- Others: JUnit, SQL, HTML, CSS, DevTools
+- Favourite IDE: IntelliJ IDEA
+
+### Goals
+- JS, TS, Cypress
+- Jenkins, Docker
+
+### Fun facts
+Hallmark in every company: Space cat lover :octocat: 
+![wp4575179-space-cat-wallpapers](https://user-images.githubusercontent.com/77629708/166441618-a2d4b5e0-7d90-462b-9a52-cdf9c3268061.jpg)
