@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-### I'm Martyna Piekarska, Junior Automation Tester at Zoovu 💻
+### I'm Martyna Piekarska, QA Engineer at ING 💻
 
 The most important for me is keeping the best quality. I learn and experience the product to find ways in which it doesn't work. Then I talk to you about these issues so that you can make more informed decisions about the quality of your products.
 
