@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 The most important for me is keeping the best quality. I learn and experience the product to find ways in which it doesn't work. Then I talk to you about these issues so that you can make more informed decisions about the quality of your products.
 
-I'm not a tester who likes "break things" - it sounds as testers don't respect developers' work. Devs and testers should play on the same team, reach common goals and enjoy mutual success. Me + devs = ❤️
-
 
 
 ### Technologies and tools
